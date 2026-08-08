@@ -1,12 +1,18 @@
-<h1 align="center" style="color: blueviolet;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, my name is Michel Medina</h1>
-<div style="display: inline-flex; align-items: center; gap: 8px;">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About me">
-    <br>
-	<h2 style="font-weight: 900; margin: 0;">About me</h2>
+<h1 align="center" style="color: blueviolet;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, my name is Michel Medina
+</h1>
+
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About me">
+    <h2 style="font-weight: 900; margin: 0;">About me</h2>
 </div>
 <hr style="border: 1px solid #ccc; margin: 20px 0;"> 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<picture> 
+    <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 <br><br>
+
 <div id="my-information" align="left" style="font-size: 18px; line-height: 1.6;">
     <ul style="list-style-type: circle">
         <li>Computer Engineering student focused on Backend Development with C# and ASP.NET Core.</li>
@@ -18,13 +24,17 @@
     </ul>
 </div>
 <br><br><br>
-<hr style="border: 1px solid #ccc; margin: 20px 0;"> 
 
+<hr style="border: 1px solid #ccc; margin: 20px 0;"> 
 <h2 style="font-weight: 900; margin: 0;">My Skills</h2>
 <br>
-<div style="display: inline-flex; align-items: center; gap: 8px;">
-	<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture><h2 style="font-weight: 900; margin: 0;">Programming languages</h2>
+
+<!-- Programming Languages -->
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">
+    <h3 style="font-weight: 900; margin: 0;">Programming languages</h3>
 </div>
+<br>
 <p align="center"> 
     &emsp; 
     <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -47,10 +57,6 @@
         <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
     </a>
     &emsp;
-    <a href="https://www.python.org" target="_blank">
-        <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-    </a>
-    &emsp;
     <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
         <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=plastic&logo=csharp&logoColor=white">
     </a>
@@ -61,9 +67,36 @@
 </p>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;"> 
-<div style="display: inline-flex; align-items: center; gap: 8px;">
-	<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px></picture><h2 style="font-weight: 900; margin: 0;">Frontend Development</h2>
+
+<!-- Frameworks & ORMs -->
+<div style="display: flex; align-items: center; gap: 8px;">
+    <h2>🚀</h2> 
+    <h3 style="font-weight: 900; margin: 0;">Frameworks & ORMs</h3>
 </div>
+<br>
+<p align="center">
+    &emsp;
+    <a href="https://laravel.com/" target="_blank">
+        <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+        <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity_Framework_Core-512BD4.svg?style=plastic&logo=dotnet&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
+        <img alt="ASP.NET Core MVC" src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4.svg?style=plastic&logo=dotnet&logoColor=white">
+    </a>
+</p>
+
+<hr style="border: 1px solid #ccc; margin: 20px 0;"> 
+
+<!-- Frontend Development -->
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px">
+    <h3 style="font-weight: 900; margin: 0;">Frontend Development</h3>
+</div>
+<br>
 <p align="center"> 
     &emsp; 
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -81,17 +114,20 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
     </a>
-   &emsp;
+    &emsp;
     <a href="https://vuejs.org/" target="_blank">
         <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=plastic&logo=vuedotjs&logoColor=white">
     </a>
 </p>
 
-<br>
 <hr style="border: 1px solid #ccc; margin: 20px 0;"> 
-<div style="display: inline-flex; align-items: center; gap: 8px;">
-	<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture><h2 style="font-weight: 900; margin: 0;">Development Environment</h2>
+
+<!-- Development Environment -->
+<div style="display: flex; align-items: center; gap: 8px;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> 
+    <h3 style="font-weight: 900; margin: 0;">Development Environment</h3>
 </div>
+<br>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank">
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=git&logoColor=white">
